@@ -19,8 +19,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'FAQ Protocolo Digital'
-copyright = u'2019, ANM'
+project = u'SOPLE HELP'
+copyright = u'2020, ANM'
 author = u'ANM'
 
 # The short X.Y version
