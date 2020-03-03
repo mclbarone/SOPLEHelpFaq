@@ -4,7 +4,8 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
 .. toctree::
    :maxdepth: 3
    :caption: Apresentação
-
+   
+   _perguntasfaq/1.0oQueESOPLE.rst
    _perguntasfaq/1.1QuandoComecaAFuncionar
    _perguntasfaq/1.2QuaisDiasHoráriosFuncionamento
 
