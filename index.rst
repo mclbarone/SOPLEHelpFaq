@@ -1,4 +1,4 @@
-SOPLE Sistema de Oferta Pública e Leilão de Áreas
+SOPLE - Sistema de Oferta Pública e Leilão de Áreas
 ===============
 
 .. toctree::
