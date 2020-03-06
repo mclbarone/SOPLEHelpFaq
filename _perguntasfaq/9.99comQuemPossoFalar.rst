@@ -1,13 +1,13 @@
-﻿Segui as orientações, mas ainda não foi possível acessar o Protocolo Digital. Com quem posso falar?
+﻿Segui as orientações, mas ainda não foi possível acessar o SOPLE. Com quem posso falar?
 ====================================================================================================
 
-Se não foi possível acessar o Protocolo Digital da ANM, e as orientações constantes no FAQ, no site e nas apresentações não foram suficientes, envie e-mail para atendimento@anm.gov.br 
+Se não foi possível acessar o SOPLE da ANM, e as orientações constantes no FAQ, no site e nas apresentações não foram suficientes, envie e-mail para sople@anm.gov.br 
 
-  **1.	Preeencher no campo assunto:** [Protocolo Digital] Não consigo acessar Protocolo Digital 
+  **1.	Preeencher no campo assunto:** [SOPLE] Não consigo acessar SOPLE 
 
   **2.	Preencher o conteúdo do e-mail com as informações:**
        - Nome do Cidadão (obrigatório);
        - CPF do Cidadão (obrigatório);
        - Nome da Empresa (se for o caso);
        - CNPJ da Empresa (se for o caso);
-       - Descrição do erro, problema ou dificuldade encontrada, acompanhado da captura da tela (*print screen*), de preferência.
+       - Descrição do erro, problema ou dificuldade encontrada, acompanhado da captura da tela (*printscreen*), de preferência.

@@ -1,4 +1,4 @@
-﻿Esqueci minha senha do Login Único (acesso GOV.BR). Como faço?
+﻿Esqueci minha senha do Login Único (acesso.GOV.BR). Como faço?
 ==================================
 
 Acesse a página do Login Único https://acesso.gov.br/, informe seu CPF, clique em "Esqueci minha senha" e siga os procedimentos informados no site.
