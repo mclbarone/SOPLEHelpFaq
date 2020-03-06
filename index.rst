@@ -18,9 +18,6 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    _perguntasfaq/3.4QualCertificadoDigital
    _perguntasfaq/3.5NaoTenhoCadastroAcessoGOVBR
    _perguntasfaq/3.6NaoTenhoCertificadoDigital
-   _perguntasfaq/3.7ComoAcessarSistemaDeDadosCadastrais
-   _perguntasfaq/3.8ComoAtualizarDadosCadastraisANM
-   _perguntasfaq/3.9CadastroSEI.rst
 
 .. toctree::
    :maxdepth: 3
