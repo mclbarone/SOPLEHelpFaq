@@ -12,9 +12,12 @@ Esta funcionalidade é utilizada nos casos em que o usuário já "Finalizou" a s
 Seguindo os passos numerados na imagem abaixo o usuário conseguirá Reabrir sua Manifestação de Interesse:
 	
 	Item 1: Clique no Icone Superior Esquerdo para abertura do Menu Lateral;
+	
 	Item 2: Selecione a opção "Tarefas";
+	
 	Item 3: Selecione "Registrar Interesse" no menu intermediário; 
-	Item 4: Selecione o Edital;  
+	
+	Item 4: Selecione o Edital.  
 
 .. image:: ../imagens/4.6SOPLEComoReabrirManifestacaoDeInteresse1SelecaoEdital.png
 No caso de o usuário já ter finalizado a sua Manifestação de Interesse, o botão "Reabrir" estará visível para que ele reabra a sua Manifestação de Interesse, conforme imagem abaixo.
