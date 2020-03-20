@@ -3,10 +3,9 @@ Como Cancelar Minhas Manifestação de Interesse?
 
     A funcionalidade "Cancelar" Manifestação de Interesse fica disponível enquanto o usuário não "Finalizar" a Manifestação de Interesse.
 
-	Caso o usuário tenha Finalizado a Manifestação de Interesse, ele precisa "Reabrir" a Manifestação de Interesse para realizar o cancelamento. 
+	Caso o usuário tenha Finalizado a Manifestação de Interesse, faz-se necessário "Reabrir" a Manifestação de Interesse para realizar o cancelamento. 
     
-	O Cancelar Manifestação de Interesse em uma área é utilizado no caso do usuário ter Registrado o Interesse em uma área 
-e deseja retirar (cancelar) a Manifestação de Interesse naquela área ou grupo de áreas.
+	O Cancelar Manifestação de Interesse em uma área é utilizado no caso do usuário ter Registrado o Interesse em uma área e deseja retirar (cancelar) a Manifestação de Interesse naquela área ou grupo de áreas.
 
     Seguindo os passos numerados na imagem abaixo o usuário conseguirá Reabrir sua Manifestação de Interesse:
 	
