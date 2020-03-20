@@ -1,13 +1,13 @@
 ﻿Como Cancelar Minhas Manifestação de Interesse?
 =============================================
 
-    A funcionalidade "Cancelar" Manifestação de Interesse fica disponível enquanto o usuário não "Finalizar" a Manifestação de Interesse.
+A funcionalidade "Cancelar" Manifestação de Interesse fica disponível enquanto o usuário não "Finalizar" a Manifestação de Interesse.
 
-	Caso o usuário tenha Finalizado a Manifestação de Interesse, faz-se necessário "Reabrir" a Manifestação de Interesse para realizar o cancelamento. 
+Caso o usuário tenha Finalizado a Manifestação de Interesse, faz-se necessário "Reabrir" a Manifestação de Interesse para realizar o cancelamento. 
     
-	O Cancelar Manifestação de Interesse em uma área é utilizado no caso do usuário ter Registrado o Interesse em uma área e deseja retirar (cancelar) a Manifestação de Interesse naquela área ou grupo de áreas.
+O Cancelar Manifestação de Interesse em uma área é utilizado no caso do usuário ter Registrado o Interesse em uma área e deseja retirar (cancelar) a Manifestação de Interesse naquela área ou grupo de áreas.
 
-    Seguindo os passos numerados na imagem abaixo o usuário conseguirá Reabrir sua Manifestação de Interesse:
+Seguindo os passos numerados na imagem abaixo o usuário conseguirá Reabrir sua Manifestação de Interesse:
 	
 	Passo 1: Clique no Icone Superior Esquerdo para abertura do Menu Lateral;
 	
@@ -15,14 +15,14 @@
  	
 	Passo 3: Selecione "Registrar Interesse" no menu intermediário; 
     
-	Passo 4: Selecione o Edital;  
+	Passo 4: Selecione o Edital.  
 	
-	Na tela de registro de Interesse na imagem abaixo siga os passos:
+Na tela de registro de Interesse na imagem abaixo siga os passos da imagem:
 	
-	Item 1: Selecione as áreas nas quais deseja Cancelar a Manifestação de Interesse.
+	Item 1: Selecione as áreas nas quais deseja Cancelar a Manifestação de Interesse;
 	
 	Item 2: Clique em "Cancelar Interesse"; 
 	
-    Item 3: Clique em "Finalizar", para finalizar a Manifestação de Interesse e concluir o Cancelamento; 
+    Item 3: Clique em "Finalizar", para finalizar a Manifestação de Interesse e concluir o Cancelamento. 
 	
 .. image:: ../imagens/4.7SOPLEComoCancelarManifestacaoDeInteresse1.png
