@@ -12,12 +12,9 @@ Depois de informar o CPF e senha registrados no GOV.BR, o usuário será redirec
 Nesta página são exibidas as áreas para que o usuário informe selecione as de seu interesse, conforme imagem a seguir.    
 
 .. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas1SelecaoDeareas.png
-
-   O usuário deve clicar em "Registrar o Interesse" e o sistema registrará a Manifestação de Interesse para todas as áreas selecionadas. 
+O usuário deve clicar em "Registrar o Interesse" e o sistema registrará a Manifestação de Interesse para todas as áreas selecionadas. 
 
 .. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas2RegistrarInteresse.png
- 
-   IMPORTANTE: Após Registrar a Manifestação de Interesse nas áreas o usuário deve clicar em "Finalizar", 
-   para Concluir o Registro da Manifestação de Interesse nas áreas Selecionadas. Conforme Imagem abaixo.
+IMPORTANTE: Após Registrar a Manifestação de Interesse nas áreas o usuário deve clicar em "Finalizar", para Concluir o Registro da Manifestação de Interesse nas áreas Selecionadas. Conforme Imagem abaixo.
   
 .. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas3Finalizar.png
