@@ -1,4 +1,4 @@
 Portal Público Acessando Detalhes do Edital
 =============================================
 
-.. image:: ../imagens/validarPorECPF_01.png
+.. image:: ../imagens/4.2PortalPublicodeAcessandoDetalhesEdital1.png

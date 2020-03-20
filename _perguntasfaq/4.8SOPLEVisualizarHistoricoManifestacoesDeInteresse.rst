@@ -1,4 +1,6 @@
 Como Visualizar o Histórico das ações de Manifestação de Interesse?
 =============================================
 
-.. image:: ../imagens/validarPorECPF_01.png
+.. image:: ../imagens/4.8SOPLEVisualizarHistoricoManifestacoesDeInteresse1.png
+
+.. image:: ../imagens/4.8SOPLEVisualizarHistoricoManifestacoesDeInteresse2.png

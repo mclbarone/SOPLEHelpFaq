@@ -1,4 +1,10 @@
 Como Registrar Manifestações de Interesse em Áreas?
 =============================================
 
-.. image:: ../imagens/validarPorECPF_01.png
+.. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas1.png
+
+.. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas1SelecaoDeareas.png
+
+.. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas2RegistrarInteresse.png
+
+.. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas3Finalizar.png

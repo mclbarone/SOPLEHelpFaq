@@ -1,4 +1,6 @@
 Como Reabrir Minha Manifestações de Interesse?
 =============================================
 
-.. image:: ../imagens/validarPorECPF_01.png
+.. image:: ../imagens/4.6SOPLEComoReabrirManifestacaoDeInteresse1SelecaoEdital.png
+
+.. image:: ../imagens/4.6SOPLEComoReabrirManifestacaoDeInteresse2Reabrir.png

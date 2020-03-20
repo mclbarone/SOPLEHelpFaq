@@ -1,4 +1,4 @@
 Portal Público de Oportunidades
 =============================================
 
-.. image:: ../imagens/validarPorECPF_01.png
+.. image:: ../imagens/4.1PortalPublicodeOportunidades1.png
