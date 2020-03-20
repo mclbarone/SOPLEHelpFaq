@@ -21,7 +21,7 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
 
 .. toctree::
    :maxdepth: 3
-   :caption: Manifestação de Interesse em Áreas
+   :caption: Manifestação de Interesse em Áreas 
 
    _perguntasfaq/4.1PortalPublicodeOportunidades
    _perguntasfaq/4.2PortalPublicodeAcessandoDetalhesEdital
