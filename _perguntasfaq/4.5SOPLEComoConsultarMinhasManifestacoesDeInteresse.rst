@@ -5,10 +5,14 @@ Como consultar Minhas Manifestação de Interesse?
 tem registro de Manifestação de Interesse Registrado. 
 
     Seguindo os passos numerados na imagem abaixo o usuário conseguirá visualizar as áreas:
+	
 	Item 1: Clique no Icone Superior Esquerdo para abertura do Menu Lateral;
+	
 	Item 2: Selecione a opção "Edital" e depois "Consultar";
- 	Item 3: Selecione "Minhas Manifestações" no menu intermediário; 
-    Item 4: Clique no Menu Direito do Edital, e selecione "Sala de Comunicação".  
+ 	
+	Item 3: Selecione "Minhas Manifestações" no menu intermediário; 
+    
+	Item 4: Clique no Menu Direito do Edital, e selecione "Sala de Comunicação".  
 	
 .. image:: ../imagens/4.5SOPLEComoConsultarMinhasManifestacoesDeInteresse1ListaEditais.png
 
