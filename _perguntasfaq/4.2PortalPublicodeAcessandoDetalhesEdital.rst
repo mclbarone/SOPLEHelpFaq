@@ -1,4 +1,4 @@
-Portal Público Detalhes do Edital
+﻿Portal Público Detalhes do Edital
 =============================================
 
     A página de Detalhes do Edital de oferta pública exibe informações básicas do Edital, 

@@ -1,4 +1,4 @@
-Como Reabrir Minha Manifestação de Interesse?
+﻿Como Reabrir Minha Manifestação de Interesse?
 =============================================
 
    	A funcionalidade de Reabrir Manifestação de interesse fica disponível após "Finalizar" a Manifestação de Interesse. 

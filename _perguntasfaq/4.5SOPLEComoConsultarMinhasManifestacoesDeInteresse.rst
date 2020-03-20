@@ -1,4 +1,4 @@
-Como consultar Minhas Manifestação de Interesse?
+﻿Como consultar Minhas Manifestação de Interesse?
 =============================================
     
 	A funcionalidade "Minhas Manifestações" exibe a lista de áreas nas quais o usuário autenticado 

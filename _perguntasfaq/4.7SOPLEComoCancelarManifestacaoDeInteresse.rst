@@ -1,4 +1,4 @@
-Como Cancelar Minhas Manifestação de Interesse?
+﻿Como Cancelar Minhas Manifestação de Interesse?
 =============================================
 
     A funcionalidade "Cancelar" Manifestação de Interesse fica disponível enquanto o usuário não "Finalizar" a Manifestação de Interesse.
