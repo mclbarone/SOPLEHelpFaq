@@ -1,4 +1,4 @@
-Como ver os Detalhes de Áreas no Portal Público?
+Como ver os Detalhes de Ãreas no Portal PÃºblico?
 =============================================
 
 .. image:: ../imagens/validarPorECPF_01.png

@@ -1,4 +1,4 @@
-Como Visualizar o Histórico das ações de Manifestação de Interesse?
+Como Visualizar o HistÃ³rico das aÃ§Ãµes de ManifestaÃ§Ã£o de Interesse?
 =============================================
 
 .. image:: ../imagens/validarPorECPF_01.png
