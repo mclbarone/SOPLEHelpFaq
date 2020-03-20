@@ -14,5 +14,6 @@ Como visualizar o Histórico das ações de Manifestação de Interesse?
 .. image:: ../imagens/4.8SOPLEVisualizarHistoricoManifestacoesDeInteresse1.png
 
    A imagem a seguir exibe a funcionalidade "Histórico de Manifestações", a qual exibe todas as ações de Registro e Cancelamento de Manifestações de Interesse realizadas pelo Usuário. 
-
+   
 .. image:: ../imagens/4.8SOPLEVisualizarHistoricoManifestacoesDeInteresse2.png
+
