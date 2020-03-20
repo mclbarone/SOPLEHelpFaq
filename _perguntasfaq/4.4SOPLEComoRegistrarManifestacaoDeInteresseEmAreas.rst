@@ -1,15 +1,15 @@
 ﻿Como Registrar Manifestação de Interesse em Áreas?
 ====================================================
 
-   Na página de Detalhe do Edital ou Detalhe da Área do Portal Público está disponível um botão "Registrar Interesse".  
+Na página de Detalhe do Edital ou Detalhe da Área do Portal Público está disponível um botão "Registrar Interesse".  
 	
-   Ao clicar neste botão será solicitado ao usuário realizar a autenticação (login) no Sistema SOPLE.
-   O usuário interessado deve realizar a autenticação no Sistema Escolhendo a opção "ENTRAR COM GOV.BR", conforme imagem abaixo.  
+Ao clicar neste botão será solicitado ao usuário realizar a autenticação (login) no Sistema SOPLE.
+
+O usuário interessado deve realizar a autenticação no Sistema Escolhendo a opção "ENTRAR COM GOV.BR", conforme imagem abaixo.  
    
 .. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas1.png
-
-   Depois de informar o CPF e senha registrados no GOV.BR, o usuário será redirecionado para a Funcionalidade de Registro de Interesse.
-   Nesta página são exibidas as áreas para que o usuário informe selecione as de seu interesse, conforme imagem a seguir.    
+Depois de informar o CPF e senha registrados no GOV.BR, o usuário será redirecionado para a Funcionalidade de Registro de Interesse.
+Nesta página são exibidas as áreas para que o usuário informe selecione as de seu interesse, conforme imagem a seguir.    
 
 .. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas1SelecaoDeareas.png
 
