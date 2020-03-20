@@ -6,7 +6,8 @@ A funcionalidade de Reabrir Manifestação de interesse fica disponível após "
 Esta funcionalidade é utilizada nos casos em que o usuário já "Finalizou" a sua Manifestação de Interesse mas deseja alterá-la:
 
 	1. Para acrescentar novas áreas de Interesse em sua Manifestação; 
-    2. Canacelar a Manifestação de Interesse em alguma área já incluída na Manifestação. 
+	
+	2. Canacelar a Manifestação de Interesse em alguma área já incluída na Manifestação. 
 
 Seguindo os passos numerados na imagem abaixo o usuário conseguirá Reabrir sua Manifestação de Interesse:
 	
