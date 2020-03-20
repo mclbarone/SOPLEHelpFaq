@@ -1,4 +1,12 @@
 Como ver os Detalhes de Áreas no Portal Público?
 =============================================
+  
+    Nesta página são exibidas as informações sobre a área em Oferta Pública como,
+Número do Processo (NUP) da área no SEI, Número do Processo Minerário, Área da Polígonal,
+Estado (UF) e Município na qual a área se encontra e o Regime de Disponibilidade. 
+
+   Clicando no Número do Processo Minerário o usuário será redirecionado para a página
+de Consulta do Cadastro Mineiro, na qual poderá informar o número do processo e 
+consultar mais informações sobre o processo minerário relacionado a esta área. 
 
 .. image:: ../imagens/4.3PortalPublicoDetalhesDeAreas1.png

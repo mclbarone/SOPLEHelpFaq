@@ -3,8 +3,11 @@ Portal Público de Oportunidades
 
   Acesse o endereço https://sople.anm.gov.br; 
   
-  A página exibida é o Painel Público de Oportunidades, 
-  a qual contém a lista de Editais nos quais existem áreas 
-  em Oferta Pública ou em Leilão. Conforme Imagem a seguir.
+  A página exibida é o Painel Público de Oportunidades do SOPLE. 
+  Esta página exibe a lista de Editais nos quais existem áreas 
+  em Oferta Pública e/ou em Leilão. 
 
+  Clicando na imagem com um "i" serão exibidas as informações do Edital.  
+  Conforme Imagem a seguir.
+  
 .. image:: ../imagens/4.1PortalPublicodeOportunidades1.png
