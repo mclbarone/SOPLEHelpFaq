@@ -1,8 +1,8 @@
-Como consultar Minhas Manifestações de Interesse?
+Como consultar Minhas Manifestação de Interesse?
 =============================================
     
-	A funcionalidade de Minhas Manifestações de Interesse exibe a lista de áreas nas 
-quais o usuário autenticado tem registro de Manifestação de Interesse Registrado. 
+	A funcionalidade "Minhas Manifestações" exibe a lista de áreas nas quais o usuário autenticado 
+tem registro de Manifestação de Interesse Registrado. 
 
     Seguindo os passos numerados na imagem abaixo o usuário conseguirá visualizar as áreas:
 	Item 1: Clique no Icone Superior Esquerdo para abertura do Menu Lateral;
