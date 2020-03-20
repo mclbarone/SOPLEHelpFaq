@@ -19,8 +19,6 @@
 	Item 4: Selecione o Edital;  
 
 .. image:: ../imagens/4.6SOPLEComoReabrirManifestacaoDeInteresse1SelecaoEdital.png
-
-    No caso de o usuário já ter finalizado a sua Manifestação de Interesse, o botão "Reabrir" 
-	estará visivel para que ele reabra a sua Manifestação de Interesse, conforme imagem abaixo.
+No caso de o usuário já ter finalizado a sua Manifestação de Interesse, o botão "Reabrir" estará visivel para que ele reabra a sua Manifestação de Interesse, conforme imagem abaixo.
 
 .. image:: ../imagens/4.6SOPLEComoReabrirManifestacaoDeInteresse2Reabrir.png

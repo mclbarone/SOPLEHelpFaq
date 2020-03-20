@@ -15,7 +15,6 @@ tem registro de Manifestação de Interesse Registrado.
 	Item 4: Clique no Menu Direito do Edital, e selecione "Sala de Comunicação".  
 	
 .. image:: ../imagens/4.5SOPLEComoConsultarMinhasManifestacoesDeInteresse1ListaEditais.png
-
-    Na funcionalidade "Sala de Comunicação", exibida na imagem abaixo, aparecerão a lista de áreas nas quais o usuário já Manifestou Interesse. 
+Na funcionalidade "Sala de Comunicação", exibida na imagem abaixo, aparecerão a lista de áreas nas quais o usuário já Manifestou Interesse. 
 
 .. image:: ../imagens/4.5SOPLEComoConsultarMinhasManifestacoesDeInteresse2SalaDecomunicacao.png
