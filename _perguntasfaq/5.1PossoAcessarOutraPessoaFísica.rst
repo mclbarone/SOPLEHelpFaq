@@ -3,6 +3,6 @@ Posso acessar o SOPLE em nome de outra pessoa física?
 
 Não é possível. Apenas é possível ter acesso a pessoa física que deseja Realizar a Manifestação de Interesse ou concorrer a um leilão. 
 
-É possível que uma pessoa física, que represente uma pessoa jurídica, aós autentticar no Login único, lhe será apresentada a lista de CNPJs que ela representa que foram cadastradas no Login único. 
+É possível que uma pessoa física, que represente uma pessoa jurídica, após autenticar no Login único, lhe será apresentada a lista de CNPJs que ela representa que foram cadastradas no Login único. 
 
 Assim, ela  poderá escolher se deseja acessar o SOPLE para se representar ou representar algum CNPJ. A partir desta autenticação, todas as suas ações dentro do SOPLe serão armazenadas em função da sua escolha de autenticação. 
