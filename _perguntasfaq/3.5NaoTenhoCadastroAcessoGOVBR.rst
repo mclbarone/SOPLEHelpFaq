@@ -1,6 +1,17 @@
 Não tenho cadastro no Login Único (aceso.gov.br). Como devo fazer?
 ===================================
 
-Acesse https://acesso.gov.br/, crie sua conta de pessoa física no Login Único e obtenha os selos e-CPF ou e-CNPJ a partir do respectivo certificado digital. 
+Passo 1 
 
-Mais informações sobre o Login Único podem ser obtidas no respectivo FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
+Acesse https://acesso.gov.br/ e crie sua conta no Login Único
+
+Passo 2
+
+Obtenha os selos e-CPF ou e-CNPJ, conforme o caso, a partir do respectivo certificado digital.
+
+
+e-CPF
+
+Na página de gerenciamento do Login Único, no selo “Cadastro validado por certificado digital” clique em obter e siga as instruções.
+
+.. image:: ../imagens/3.5CadastroECPFNoLoginUnico.png 
