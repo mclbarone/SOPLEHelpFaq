@@ -17,12 +17,12 @@ Seguindo os passos numerados na imagem abaixo o usuário conseguirá Reabrir sua
     
 	Passo 4: Selecione o Edital.  
 	
-Na tela de registro de Interesse na imagem abaixo siga os passos da imagem:
+Na tela de registro de Interesse (imagem abaixo) siga os passos de 1 a 3:
 	
 	1. Selecione as áreas nas quais deseja Cancelar a Manifestação de Interesse;
 	
 	2. Clique em "Cancelar Interesse";
 	
-	3. Clique em "Finalizar", para finalizar a Manifestação de Interesse e concluir o Cancelamento. 
+	3. Clique em "Finalizar", para finalizar a Manifestação de Interesse e concluir o cancelamento. 
 	
 .. image:: ../imagens/4.7SOPLEComoCancelarManifestacaoDeInteresse1.png
