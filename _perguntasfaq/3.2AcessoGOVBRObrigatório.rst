@@ -1,4 +1,4 @@
-O Acesso Login Único (acesso.GOV.BR) do Governo Federal será obrigatório para uso do SOPLE?
+O Acesso através do Login Único (acesso.GOV.BR) do Governo Federal será obrigatório para uso do SOPLE?
 ==================================================================================
 
 Sim! O acesso inicial sempre será por meio do Login Único do governo federal, tanto para pessoas jurídicas como pessoas físicas. 
