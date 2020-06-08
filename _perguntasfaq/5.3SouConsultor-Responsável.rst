@@ -3,8 +3,6 @@ Sou consultor, ou responsável técnico, de diferentes empresas. Posso acessar o
 
 Sim. A pessoa física sempre acessará inicialmente com o seu próprio Login Único. 
 
-Após informar o seu login e senha lhe será apresentada uma tela do SOPLE na qual 
-
-lhe serão apresentados todos os CNPJs que foram vinculados ao seu Login Único. 
+Após informar o seu login e senha, lhe será apresentada uma tela do SOPLE na qual lhe serão apresentados todos os CNPJs que foram vinculados ao seu Login Único. 
 
 Assim, o usuário poderá escolher o nome da pessoa jurídica a qual ela quer representar durante aquela sessão de login. 
