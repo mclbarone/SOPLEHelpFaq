@@ -1,6 +1,6 @@
 Preciso de um certificado digital para usar o SOPLE da ANM?
 =======================================================================
 
-Sim. O usuário precisa ter uma conta no Login único (acesso.gov.br), seja pessoa física ou jurídica, e ter o cadastrado validado 
+Sim. O usuário precisa ter uma conta no Login único do governo federal (acesso.gov.br), seja pessoa física ou jurídica, e ter o cadastrado validado 
 com certificado digital, seja e-CPF ou e-CNPJ. Com esta conta poderá acessar o SOPLE e participar tanto da oferta pública quanto 
 do Leilão de áreas. 
