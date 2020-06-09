@@ -6,7 +6,7 @@ Acesse o endereço eletrônico:  https://sople.anm.gov.br
 Navegue no Portal Público de Oportunidades para encontrar os editais e as áreas de seu interesse. 
         
 Autenticação no SOPLE pode ser feita clicando no "Cadeado", no canto superior direito,
-e selecionando a opção "Login ùnico", conforme imagem a seguir. 
+e selecionando a opção "Entrar com GOV.BR", conforme imagens a seguir. 
     
 .. image:: ../imagens/3.0AcessoAoSOPLECadeado.png
 Clique no cadeado no canto superior direito. 
