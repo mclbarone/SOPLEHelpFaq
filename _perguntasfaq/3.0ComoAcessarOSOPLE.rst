@@ -9,10 +9,10 @@ Autenticação no SOPLE pode ser feita clicando no "Cadeado", no canto superior 
 e selecionando a opção "Login ùnico", conforme imagem a seguir. 
     
 .. image:: ../imagens/3.0AcessoAoSOPLECadeado.png
-Clique no cadeado. 
+Clique no cadeado no canto superior direito. 
 
 .. image:: ../imagens/3.0AcessoAoSOPLEBotaoGOVBR.png
-Clique no botão Acesso com GOV.BR.
+Clique no botão "Entrar com GOV.BR".
 
 
 Quais são os Requisitos Mínimos para acessar o SOPLE? 
