@@ -25,7 +25,6 @@ Confira os dados e confirme a aquisição de confiabilidade com base no e-CPF
 No momento da aquisição do selo e-CPF você deverá estar com o token (pen drive) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
 
 
-
 e-CNPJ
 ==================================
 
