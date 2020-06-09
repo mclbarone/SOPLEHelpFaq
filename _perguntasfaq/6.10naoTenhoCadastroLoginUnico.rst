@@ -3,8 +3,7 @@
 
 Passo 1 
 **********************
-            Acesse https://acesso.gov.br/
-            Crie sua conta no Login Único
+            Acesse https://acesso.gov.br/ e crie sua conta no Login Único.
 
 Passo 2
 **********************
@@ -18,7 +17,7 @@ Na página de gerenciamento do Login Único, no selo **“Cadastro validado por 
 *Clique no selo "cadastro validado por certificado digital"*
 
 .. image:: ../imagens/validarPorECPF_02.png
-*Confira os dados e confirme a aquisição de confiabiliade com base no e-CPF*
+*Confira os dados e confirme a aquisição de confiabilidade com base no e-CPF*
 
 No momento da aquisição do selo e-CPF você deverá estar com o *token* (*pen drive*) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
 
