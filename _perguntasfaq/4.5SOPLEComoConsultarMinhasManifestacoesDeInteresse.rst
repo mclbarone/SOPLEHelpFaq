@@ -7,13 +7,13 @@ Seguindo os passos numerados na imagem abaixo o usuário conseguirá visualizar 
 	
 	1. Clique no ícone Superior Esquerdo para abertura do Menu Lateral;
 	
-	2. Selecione a opção "Edital" e depois "Consultar";
+	2. Selecione a opção "Processos" e depois "Meus Processos";
 	
-	3. Selecione "Minhas Manifestações" no menu intermediário; 
+	3. Clique no Edital listado ao lado direito (Item 3 da imagem) para consultar as Manifestações de Interesse realizadas no Edital; 
 	
-	4. Clique no Menu Direito do Edital, e selecione "Sala de Comunicação".  
+	  
 	
 .. image:: ../imagens/4.5SOPLEComoConsultarMinhasManifestacoesDeInteresse1ListaEditais.png
-Na funcionalidade "Sala de Comunicação", exibida na imagem abaixo, aparecerá a lista de áreas nas quais o usuário já Manifestou Interesse. 
+Na funcionalidade Meus Processos, exibida na imagem abaixo, aparecerá a lista de áreas nas quais o usuário já Manifestou Interesse. 
 
 .. image:: ../imagens/4.5SOPLEComoConsultarMinhasManifestacoesDeInteresse2SalaDecomunicacao.png
