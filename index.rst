@@ -47,9 +47,5 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
 
    _perguntasfaq/6.01esquecisenhactdm
    _perguntasfaq/6.07esqueciMinhaSenhaLoginUnico
-   _perguntasfaq/6.10naoTenhoCadastroLoginUnico
-   _perguntasfaq/6.11naoTenhoCertificadoDigital
-   _perguntasfaq/6.12tenhocertificadonaoaparece
    _perguntasfaq/6.14vocenaotemacesso
-   _perguntasfaq/6.15ContaLoginUnicoJaExiste.rst
    _perguntasfaq/6.99comQuemPossoFalar
