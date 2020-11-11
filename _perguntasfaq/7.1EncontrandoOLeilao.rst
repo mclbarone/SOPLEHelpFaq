@@ -3,19 +3,19 @@
 
 Após autenticar no SOPLE com sua conta do Login Único, escolha o usuário com o qual registrou a Manifestação de Interesse. 
 
-Clique no Menu Tarefas;
+Selecione "Tarefas" no menu esquerdo principal, conforme imagem;
 
 Na lista de "Tarefas" são exibidos filtros para Editais em função da ação que o usuário deseja fazer em cada Edital;
 
-No lado direito são exibidos os editais.
+No lado direito são exibidos os Editais, entre o menu principal e a lista de editais são exibidos os filtros de Editais.
 
 .. image:: ../imagens/7.1TelaMenuTarefas.png
 
-Selecione "Registrar Proposta" para filtrar os Editais que se encontram no período de Registro de Proposta. 
+Selecione "Registrar Proposta", item 1 da imagem abaixo, para filtrar os Editais que se encontram no período de Registro de Proposta. 
 
 .. image:: ../imagens/7.1TelaTarefasFiltroRegistroProposta.png
 
-Clique no Edital para ir para a Tela de "Inscrição de Proposta". 
+Clique no Edital, item 2 da imagem acima, para ir para a Funcionalidade de "Inscrição de Proposta". 
 
 
 
