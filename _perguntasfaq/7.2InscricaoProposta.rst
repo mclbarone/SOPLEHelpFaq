@@ -11,7 +11,7 @@ Ao informar o valor da proposta, observe a situação da área "Não Cotado" (em
 
 Após Clicar em "Finalizar", observe que a situação "Não Concorrendo" (em vermelho) mudará para "Concorrendo" (em verde). 
 
-O usuário será redireciondo para a funcionalidade de "Painel de Comunicação", onde poderá acompanhar a situação da sua proposta após o término do prazo de envio de proposta. 
+O usuário será redireciondo para a funcionalidade de "Sala de Comunicação", onde poderá acompanhar a situação da sua proposta após o término do prazo de envio de proposta. 
 
 .. image:: ../imagens/7.2TelaSalaComunicacao3Finalizada.png
 
