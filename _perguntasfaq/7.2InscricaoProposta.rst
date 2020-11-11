@@ -1,0 +1,18 @@
+﻿Como Registrar a Proposta para uma Área?
+====================================================
+
+Na funcionalidade de "Inscrição de Proposta", no campo "Valor da Proposta", informe o valor da Lance a ser considerado ganhar o direito de requerer a área com prioridade conforme as regras do Edital.  
+
+.. image:: ../imagens/7.2TelaInscricaoProposta1.png
+
+Ao informar o valor da proposta, observe a situação da área "Não Cotado" (Em vermelho) mudará para "Cotado" (Em verde). 
+
+.. image:: ../imagens/7.2TelaInscricaoProposta2Cotado.png
+
+Após Clicar em "Finalizar", observe que a situação "Não Concorrendo" (Em vermelho) mudará para "Concorrendo" (Em verde). 
+
+O usuário será redireciondo para a funcionalidade de Painel de Comunicação. 
+
+.. image:: ../imagens/7.2TelaSalaComunicacao3Finalizada.png
+
+IMPORTANTE: O usuário poderá Inscrever proposta apenas nas áreas em que Manifestou interesse na Fase de Oferta Pública do Edital. 
