@@ -19,11 +19,11 @@
 	emolumento n.° 1 para pesquisa, emolumento n.° 2 para lavra garimpeira; 
 
 3. Gerar pré-requerimento conforme o caso :
-	2.1 Pré-Requerimento de PESQUISA:          
+	2.1 LEILÃO - Pré-Requerimento de PESQUISA:          
 		Endereço: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=36
-	2.2 Pré-Requerimento de LAVRA   
+	2.2 LEILÃO - Pré-Requerimento de LAVRA   
 		Endereço: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=40
-	2.3 Pré-Requerimento de LAVRA GARIMPEIRA  
+	2.3 LEILÃO - Pré-Requerimento de LAVRA GARIMPEIRA  
 		Endereço: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=38
 	
 4. Protocolizar o PreRequerimento:
@@ -34,4 +34,4 @@
   
 
 Observação Importante: 
-	O Protocolo Digital permitirá protocolizar o requerimento apenas dentro dos prazos defindos no edital da sua Rodada. 
+	O Protocolo Digital permitirá protocolizar o pré-requerimento apenas dentro dos prazos defindos no edital da Rodada. 
