@@ -4,30 +4,34 @@
 1. Gerar a GRU e realizar o pagamento dentro do prazo definido no Edital da Rodada; 
     Endereço: http://consulta.tesouro.fazenda.gov.br/gru_novosite/gru_simples.asp
 	
+	DADOS PARA PREENCHIMENTO DA GRU: 
+	
 	Unidade Gestão (UG): 323100
 	Gestão: 32396
-    Nome da Unidade: Setorial Orçamentária e Financeira - ANM
+	Nome da Unidade: Setorial Orçamentária e Financeira - ANM
 	Código de Recolhimento: 10091 – Leilão de Áreas em Disponibilidade.
 	Número de Referência: nº do processo minerário da Área arrematada, conforme
 	Indicado nos ANEXOS 1 e 2 (por exemplo: 123456/2010)
+
 
 2.  Gerar e pagar o Boleto de Emolumentos dentro dos  prazos definidos no Edital da sua Rodada:
 	Endereço: https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp - 
 	emolumento n.° 1 para pesquisa, emolumento n.° 2 para lavra garimpeira; 
 
-2. Gerar pré-requerimento conforme o caso :
-	2.1 Requerimento de PESQUISA          
+3. Gerar pré-requerimento conforme o caso :
+	2.1 Pré-Requerimento de PESQUISA:          
 		Endereço: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=36
-	2.2 Requerimento de LAVRA   
+	2.2 Pré-Requerimento de LAVRA   
 		Endereço: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=40
-	2.3 Requerimento de LAVRA GARIMPEIRA  
+	2.3 Pré-Requerimento de LAVRA GARIMPEIRA  
 		Endereço: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=38
 	
-3. Protocolizar o PreRequerimento:
+4. Protocolizar o PreRequerimento:
   3.1 Acessar o Protocolo Digital no Endereço: https://app.anm.gov.br/protocolo ; 
   3.2 Utilizar o login e senha associado ao CPF/CNPJ da pessoa que arrematou a área; 
   3.3 Informar o Código do Pré Requerimento - Deve ser o mesmo informado no pré-requerimento. 
   3.4 Anexar os documentos complementares e informado dados do emolumento e o comprovante de pagamento do lance vencedor.
   
-- Observação Importante: 
-  O Protocolo Digital permitirá protocolizar o requerimento apenas dentro dos prazos defindos no edital da sua Rodada. 
+
+Observação Importante: 
+	O Protocolo Digital permitirá protocolizar o requerimento apenas dentro dos prazos defindos no edital da sua Rodada. 
