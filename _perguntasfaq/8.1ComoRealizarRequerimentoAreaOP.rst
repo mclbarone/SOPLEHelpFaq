@@ -1,20 +1,22 @@
 ﻿Como realizar o Requerimento de Área da OFERTA PÚBLICA? 
 ====================================================
 
-1 Gerar e pagar emolumentos nos prazos definidos em Edital:
-	https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp - 
-	emolumento n.° 1 para pesquisa, emolumento n.° 2 para lavra garimpeira; 
+1. Gerar e pagar o emolumento nos prazos definidos em Edital da RODADA:
+   Endereço: https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp
 
 2. Gerar Pré-Requerimento no Cadastro Mineiro (SCM):   
-	OFERTA PÚBLICA - Requerimento de Pesquisa           https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=35
-	OFERTA PÚBLICA - Requerimento de Lavra Garimpeira   https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
-	OFERTA PÚBLICA - Requerimento de Lavra              https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=39
+	2.1 OFERTA PÚBLICA - Requerimento de Pesquisa           
+	     Endereço: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=35
+	2.2 OFERTA PÚBLICA - Requerimento de Lavra Garimpeira   
+	     Endereço: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
+	2.3 OFERTA PÚBLICA - Requerimento de Lavra              
+	     Endereço: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=39
 
-3. Protocolizar o PreRequerimento:
-  3.1 Acessar o Protocolo Digital no Endereço: https://app.anm.gov.br/protocolo ; 
+3. Protocolizar o PreRequerimento no Protocolo Digital da ANM:
+  3.1 Acessar o Protocolo Digital no Endereço: https://app.anm.gov.br/protocolo; 
   3.2 Utilizar o login e senha associado ao CPF/CNPJ da pessoa que arrematou a área; 
-  3.3 Informar o Código do PréRequerimento - Deve ser o mesmo informado no pré-requerimento. 
-  3.4 Anexar os documentos complementares e informado dados do emolumento.
+  3.3 Informar o Código do PréRequerimento - Deve ser o mesmo informado no pré-requerimento; 
+  3.4 Anexar os documentos complementares e informado dados do emolumento; 
   
 - Observação Importante: 
   O Protocolo Digital permitirá protocolizar o requerimento apenas dentro dos prazos defindos no edital da sua Rodada. 
