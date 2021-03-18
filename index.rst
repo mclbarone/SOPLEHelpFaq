@@ -40,7 +40,13 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    _perguntasfaq/7.1EncontrandoOLeilao
    _perguntasfaq/7.2InscricaoProposta
    _perguntasfaq/7.3ReabrirProposta
-      
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Requerimentos
+   _perguntasfaq/8.1ComoRealizarRequerimentoAreaOP
+   _perguntasfaq/8.2ComoRealizarRequerimentoAreaLEILAO
+   
 .. toctree::
    :maxdepth: 3
    :caption: Relacionamentos
@@ -48,6 +54,8 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    _perguntasfaq/5.1PossoAcessarOutraPessoaFísica
    _perguntasfaq/5.2PossoLimitar
    _perguntasfaq/5.3SouConsultor-Responsável
+   
+
 
 .. toctree::
    :maxdepth: 3
