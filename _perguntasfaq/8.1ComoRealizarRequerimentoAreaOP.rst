@@ -1,7 +1,7 @@
 ﻿Como realizar o Requerimento de Área da OFERTA PÚBLICA? 
 ====================================================
 
-1. Gerar e pagar o emolumento nos prazos definidos em Edital da RODADA
+1. Gerar e pagar o emolumento nos prazos definidos em Edital da RODADA:
 	https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp
    
    	Emolumento n.° 1 para PESQUISA;  
