@@ -7,9 +7,13 @@
 	Dados para preenchimento da GRU: 
 	
 		Unidade Gestão (UG): 323100
+	
 		Gestão: 32396
+
 		Nome da Unidade: Setorial Orçamentária e Financeira - ANM
+	
 		Código de Recolhimento: 10091 – Leilão de Áreas em Disponibilidade.
+	
 		Número de Referência: nº do processo minerário da Área arrematada (Ex.: 123456/2010)
 
 2.  Gerar e pagar o Boleto de Emolumentos dentro dos  prazos definidos no Edital da sua Rodada:
