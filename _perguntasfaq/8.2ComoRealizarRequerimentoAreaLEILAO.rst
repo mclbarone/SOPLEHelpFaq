@@ -1,8 +1,8 @@
 ﻿Como realizar o Requerimento de Área do LEILÃO? 
 ====================================================
 
-1. Gerar a GRU e realizar o pagamento dentro do prazo definido no Edital da Rodada; 
-    Endereço: http://consulta.tesouro.fazenda.gov.br/gru_novosite/gru_simples.asp
+1. Gerar a GRU com o valor do lance vencedor e realizar o pagamento dentro do prazo definido no Edital da Rodada: 
+	http://consulta.tesouro.fazenda.gov.br/gru_novosite/gru_simples.asp
 	
 	Dados para preenchimento da GRU: 
 	
@@ -18,8 +18,12 @@
 		
 
 2.  Gerar e pagar o Boleto de Emolumentos dentro dos  prazos definidos no Edital da sua Rodada:
-	Endereço: https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp - 
-	emolumento n.° 1 para pesquisa, emolumento n.° 2 para lavra garimpeira; 
+	https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp 
+	
+	Emolumento n.° 1 para PESQUISA;  
+	
+	Emolumento n.° 3 para LAVRA GARIMPEIRA; 
+	
 
 3. Gerar pré-requerimento conforme o caso :
 	2.1 LEILÃO - Pré-Requerimento de PESQUISA:          

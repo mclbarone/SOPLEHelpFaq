@@ -2,8 +2,11 @@
 ====================================================
 
 1. Gerar e pagar o emolumento nos prazos definidos em Edital da RODADA
-   Endereço: https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp
+	https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp
    
+   	Emolumento n.° 1 para PESQUISA;  
+	
+	Emolumento n.° 3 para LAVRA GARIMPEIRA; 
 
 2. Gerar Pré-Requerimento no Cadastro Mineiro (SCM):   
 	2.1 OFERTA PÚBLICA - Requerimento de Pesquisa           
