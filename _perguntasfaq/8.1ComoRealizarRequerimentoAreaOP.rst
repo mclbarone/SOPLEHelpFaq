@@ -7,11 +7,11 @@
 
 2. Gerar Pré-Requerimento no Cadastro Mineiro (SCM):   
 	2.1 OFERTA PÚBLICA - Requerimento de Pesquisa           
-	     Endereço: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=35
+	     https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=35
 	2.2 OFERTA PÚBLICA - Requerimento de Lavra Garimpeira   
-	     Endereço: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
+	     https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
 	2.3 OFERTA PÚBLICA - Requerimento de Lavra              
-	     Endereço: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=39
+	     https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=39
 
 3. Protocolizar o pré-requerimento no Protocolo Digital da ANM:
 	3.1 Acessar o Protocolo Digital no Endereço: https://app.anm.gov.br/protocolo; 
