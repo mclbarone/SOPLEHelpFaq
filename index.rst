@@ -11,12 +11,6 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
 
 .. toctree::
    :maxdepth: 3
-   :caption: Teste
-   
-   _perguntasfaq/1.0oQueESOPLE.rst
-   
-.. toctree::
-   :maxdepth: 3
    :caption: Autenticação e Cadastro
    
    _perguntasfaq/3.0ComoAcessarOSOPLE
