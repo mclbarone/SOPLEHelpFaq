@@ -23,3 +23,5 @@ Seguindo os passos numerados na imagem abaixo o usuário conseguirá Reabrir sua
 No caso do usuário já ter finalizado sua Manifestação de Interesse, o botão "Reabrir" estará visível para que ele reabra a sua Manifestação de Interesse, conforme imagem abaixo.
 
 .. image:: ../imagens/4.6SOPLEComoReabrirManifestacaoDeInteresse2Reabrir.png
+
+IMPORTANTE: Lembre-se de Finalizar a sua manifestação de Interesse após a Reabertura. Só serão consideradas as Manifestações de Interesse Finalizadas. 
