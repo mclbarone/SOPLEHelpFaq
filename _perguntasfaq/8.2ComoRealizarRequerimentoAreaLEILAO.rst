@@ -22,7 +22,7 @@
 	
 	Emolumento n.° 1 para PESQUISA;  
 	
-	Emolumento n.° 3 para LAVRA GARIMPEIRA; 
+	Emolumento n.° 2 para LAVRA GARIMPEIRA; 
 	
 
 3. Gerar pré-requerimento conforme o caso :
@@ -40,7 +40,7 @@
 	
 	4.3 Informar o Código do Pré Requerimento - Deve ser o mesmo informado no pré-requerimento do passo 3; 
 	
-	4.4 Anexar os documentos complementares e informado dados do emolumento e o comprovante de pagamento do lance vencedor.
+	4.4 Anexar os documentos complementares e informado dados do emolumento, bem como anexar o comprovante de pagamento do emolumento e do lance vencedor.
 
 Observação Importante: 
 	O Protocolo Digital permitirá protocolizar o pré-requerimento apenas dentro dos prazos defindos no edital da Rodada. 
