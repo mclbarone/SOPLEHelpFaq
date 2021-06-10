@@ -6,7 +6,7 @@
    
    	Emolumento n.° 1 para PESQUISA;  
 	
-	Emolumento n.° 3 para LAVRA GARIMPEIRA; 
+	Emolumento n.° 2 para LAVRA GARIMPEIRA; 
 
 2. Gerar Pré-Requerimento no Cadastro Mineiro (SCM):   
 	2.1 OFERTA PÚBLICA - Requerimento de Pesquisa           
