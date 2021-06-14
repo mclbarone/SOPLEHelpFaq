@@ -23,11 +23,11 @@
 	
 	3.3 Informar o Código do pré-requerimento - Deve ser o mesmo informado no pré-requerimento do passo 2; 
 	
-	3.4 Anexar os documentos complementares e informado dados do emolumento, bem como anexar o comprovante de pagamento do mesmo;
+	3.4 Anexar os documentos complementares e informar dados do emolumento, bem como anexar o comprovante de pagamento do mesmo;
 	
   
 Observação Importante: 
-	O Protocolo Digital permitirá protocolizar o pré-requerimento apenas dentro dos prazos defindos no edital da Rodada. 
+	O Protocolo Digital só permitirá protocolizar o pré-requerimento dentro dos prazos defindos no edital da Rodada. 
   
 
 
